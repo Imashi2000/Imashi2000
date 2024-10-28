@@ -66,7 +66,7 @@ I'm a Computer Science undergraduate at the University of Ruhuna and a software 
 ---
 ### 📫 How to reach me
 
-I'm just a message away! Let's connect and collaborate on building impactful solutions. Check out my [CV](link-to-your-cv) for a deeper dive into my journey, or reach me directly via email at [imashi.samarawickrama@outlook.com](mailto:imashi.samarawickrama@outlook.com). Looking forward to hearing from you!
+I'm just a message away! Let's connect and collaborate on building impactful solutions. Check out my [CV]([link-to-your-cv](https://github.com/Imashi2000/Imashi2000/blob/main/Imashi%20Samarawickrama-CV.pdf)) for a deeper dive into my journey, or reach me directly via email at [imashi.samarawickrama@outlook.com](mailto:imashi.samarawickrama@outlook.com). Looking forward to hearing from you!
 
 
 <!--
