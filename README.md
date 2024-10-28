@@ -4,10 +4,8 @@ Software Engineer (Full Stack)
 I'm a Computer Science undergraduate at the University of Ruhuna and a software engineering intern at Creative Software. Passionate about building innovative and practical solutions, I focus on backend development, DevOps, Mobile and full-stack projects. 
 🌱 On my GitHub, you'll find a variety of projects that highlight my experience with end-to-end application development, CI/CD pipelines, and data management.
 
-<!--
-**Imashi2000/Imashi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-   <p align="left">
+<p align="left">
       <a href="https://github.com/Chamidilshan/sl_explorer">
          <img alt="MObile-Frontend" title="My Sri Lanka App - Frontend" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/Chamidilshan/sl_explorer_backend">
@@ -35,6 +33,11 @@ I'm a Computer Science undergraduate at the University of Ruhuna and a software 
 <br />
 
 #
+
+<!--
+**Imashi2000/Imashi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+   
 
 Here are some ideas to get you started:
 
