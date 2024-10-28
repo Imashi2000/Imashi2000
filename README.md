@@ -1,5 +1,5 @@
-Hello!! I'm Imashi Samarawickrama👋
-Software Engineer (Full Stack)
+# Hello!! I'm Imashi Samarawickrama👋
+## Software Engineer (Full Stack)
 
 I'm a Computer Science undergraduate at the University of Ruhuna and a software engineering intern at Creative Software. Passionate about building innovative and practical solutions, I focus on backend development, DevOps, Mobile and full-stack projects. 
 🌱 On my GitHub, you'll find a variety of projects that highlight my experience with end-to-end application development, CI/CD pipelines, and data management.
