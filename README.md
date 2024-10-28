@@ -7,7 +7,7 @@ I'm a Computer Science undergraduate at the University of Ruhuna and a software 
 
 <p align="left">
       <a href="https://github.com/Chamidilshan/sl_explorer">
-         <img alt="MObile-Frontend" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/> My Sri Lanka App-Frontend </a> 
+         <img alt="MObile-Frontend" title="My Sri Lanka App-Frontend" src="https://custom-icon-badges.demolab.com/youtube/channel/My Sri Lanka App-Frontends/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/> </a> 
       <a href="https://github.com/Chamidilshan/sl_explorer_backend">
          <img alt="Mobile-Backend" title="My Sri Lanka App/Web - Backend" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Chamidilshan/sl-explorer-admin-web">
