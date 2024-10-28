@@ -19,6 +19,15 @@ I'm a Computer Science undergraduate at the University of Ruhuna and a software 
    <a href="https://github.com/Imashi2000/Portfolio">
       <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Project-Portfolio-lightgrey?style=for-the-badge"/>
    </a>
+   <a href="https://github.com/Imashi2000/Shanthi-web">
+      <img alt="Shanthi-Web" title="Shanthi Children Society Frontend" src="https://img.shields.io/badge/Project-Shanthi%20Web-blue?style=for-the-badge"/>
+   </a>
+   <a href="https://github.com/Pasan-Waga-Arachchi/Doc-Appointment-System">
+       <img alt="C# Project" title="Doctor's Appointment System Desktop App" src="https://img.shields.io/badge/Project-Doctor's%20Appointment%20System-purple?style=for-the-badge"/>
+   </a>
+   <a href="https://github.com/Imashi2000/Itinerary_Planner">
+      <img alt="Java Project" title="Itinerary Planner Desktop App" src="https://img.shields.io/badge/Project-Itinerary%20Planner-brightgreen?style=for-the-badge"/>
+   </a>
 </p>
 
 
@@ -39,6 +48,7 @@ I'm a Computer Science undergraduate at the University of Ruhuna and a software 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<br />
 
 #### Database
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
