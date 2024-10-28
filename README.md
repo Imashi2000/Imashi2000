@@ -61,7 +61,9 @@ I'm a Computer Science undergraduate at the University of Ruhuna and a software 
 <img align="left" alt="Helm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" />
 <br />
 
-#
+
+- 📫 **How to reach me**: I'm just a message away! Let's connect and collaborate on building impactful solutions. Check out my [CV](link-to-your-cv) for a deeper dive into my journey, or reach me directly via email at [imashi.samarawickrama@outlook.com](mailto:imashi.samarawickrama@outlook.com). Looking forward to hearing from you!
+
 
 <!--
 **Imashi2000/Imashi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
