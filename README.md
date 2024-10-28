@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Imashi Samarawickrama👋
+Software Engineer (Full Stack)
 <!--
 **Imashi2000/Imashi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
